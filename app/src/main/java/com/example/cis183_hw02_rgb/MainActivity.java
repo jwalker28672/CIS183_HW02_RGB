@@ -1,3 +1,9 @@
+//==================================================================================================
+//Name: Jacob Walker
+//Date: 09-25-2024
+//Desc: Changes color of background depending on RGB values of seekbars
+//==================================================================================================
+
 package com.example.cis183_hw02_rgb;
 
 import android.graphics.Color;
